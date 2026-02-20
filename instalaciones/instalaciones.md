@@ -1,7 +1,7 @@
 # Instalaciones
 ## Cisco packet tracer
 ## cmd
-![Importancia cmd](../imagenes/cmd.jpeg)
+<img src="imagenes/cmd.jpeg" alt="importancia cmd" >
 ### Ejercicios
 ## Cableado estructurado
 ## Algo mas
